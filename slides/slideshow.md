@@ -3,7 +3,7 @@ class: center, middle
 # Physical Computing 
 ## Traffic Lights
 ### with
-## Crumble, CodeBug, or Arduino - 18:24 Thu 27 Aug
+## Crumble, CodeBug, or Arduino 
 
 ## David Roberts
 ### STEM Ambassador, Code Club Volunteer, Tinkerer
@@ -135,11 +135,9 @@ If we can turn __ONE__ light On and Off, we can probably manage three...
 # Arduino
 
 ---
-#Ardunio
-## One light
 
----
 # Acknowledgements/Credits
+## - 17:22 Fri 23 Oct
 
 ---
 class: right, bottom
